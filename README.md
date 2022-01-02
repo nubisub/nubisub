@@ -16,7 +16,7 @@
 
 <br>
 
-<div display="block" >
+<div>
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nubisub&show_icons=true&theme=react&line_height=33" />
 </a>
@@ -26,6 +26,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+
+
+
+
+
+
+
+
 
 
 <!--END_SECTION:waka-->
