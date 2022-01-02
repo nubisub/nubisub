@@ -1,8 +1,8 @@
-
 # <p align = "center">nubisub</p>
-### <p align = "center">Hi there, I'm [nubisub](https://nubisub.xyz) 👋 Reach me at :</p>
-<div align = "center">
 
+### <p align = "center">Hi there, I'm [nubisub](https://nubisub.xyz) 👋 Reach me at :</p>
+
+<div align = "center">
 
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](#)
@@ -13,6 +13,7 @@
 </div>
 
 ---
+
 <br>
 
 <div >
@@ -23,3 +24,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubisub&theme=react" />
 </a>
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
