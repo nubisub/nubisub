@@ -16,7 +16,7 @@
 
 <br>
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=nubisub&show_icons=true&theme=react" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=nubisub&show_icons=true&theme=react" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubisub&theme=react&layout=compact" />
 
 <br>
