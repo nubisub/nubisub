@@ -11,12 +11,14 @@
    [<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />](https://youtu.be/6CKoBtMsdSw?t=18)
  
 </div>
+
 ---
+
 <br>
    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=nubisub&show_icons=true&theme=react" />
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubisub&theme=react&layout=compact&card_width=260" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubisub&theme=react&layout=compact&card_width=260" />
 <br>
-
+<br><br><br><br><br><br><br>
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2043%20mins-blue)
