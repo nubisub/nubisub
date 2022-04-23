@@ -14,10 +14,9 @@
 ---
 <br>
    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=nubisub&show_icons=true&theme=react" />
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubisub&theme=react&layout=compact&card_width=260" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubisub&theme=react&layout=compact&card_width=260" />
 <br>
-<hr>
-<div></div>
+
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2043%20mins-blue)
