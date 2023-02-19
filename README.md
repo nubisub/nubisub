@@ -1,6 +1,6 @@
 <!-- # <p align = "center">nubisub</p> -->
 
-## <p align = "center">Hi there, I'm [nubisub](https://nubisub.xyz) 👋 Reach me at :</p>
+## <p align = "center">Hi there, I'm [nubisub](https://nubisub.vercel.app/) 👋 Reach me at :</p>
 
 <div align = "center">
  
